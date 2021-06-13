@@ -5,12 +5,12 @@ This project involves interacting and analyzing NYC parking violations over the 
 Parking tickets are a headache for most people but for some states it's a tremendous money maker with them raking in millions if not billions in fees and fines. Luckily, we are afforded a chance to analyze this data through NYC Open Data which is a free public data site which offers an api for this very purpose. The Open Parking and Camera Violations api is a very large data source that can be much more easily and efficiently handled through cloud computing and thats what we plan to do here. <br />
 
 The Average Payment,Fine and Penalty amount over the last decade
-  ![](/images/Avg%20Amounts%20Over%20Years.png)
+  ![](/images/YearlyAvgs.png)
 
 <br />
 
 The Top 50 Parking Violations Wordcloud
-  ![](https://github.com/OjeWilliams/Analyzing-Millions-of-NYC-Parking-Violations/blob/main/assets/Word%20cloud%20of%20top%2050%20violation.png)
+  ![](/images/TopViolations.png)
   <br />
 
 
