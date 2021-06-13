@@ -10,7 +10,7 @@ The Average Payment,Fine and Penalty amount over the last decade
 <br />
 
 The Top 50 Parking Violations Wordcloud
-  ![](/images/Word%20cloud%20of%20top%2050%20violation.png)
+  ![](/images/Word20cloudoftop50violation.png)
   <br />
 
 
