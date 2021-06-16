@@ -16,7 +16,8 @@ The Top 50 Parking Violations Wordcloud
 
 Total Dashboard
 ![](/images/kibanadashboard.png) 
-
+ <br />
+  <br />
 
 
 # [Analyzing Yelp Reviews Dataset](https://github.com/OjeWilliams/Analyzing-Yelp-Reviews-Dataset/blob/main/README.md)
