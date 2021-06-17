@@ -40,7 +40,7 @@ Review Comparison
  # [Game of Thrones Script Analysis](https://github.com/OjeWilliams/NLP_Analysis)
 Game of Thrones (GOT), is a fantasy drama television series that contains 73 episodes in 8 seasons. We analyzed a complete set of the script from all the characters for all seasons through Natural Language Processing techniques such as sentiment analysis, aspect mining, tokenization, and Named Entity Recognition (NER). We tackled topics such as the change in main characters' sentiment, frequent words used in each family, and the comparison of the word usage of the two main characters. This allowed us to provide better and deeper insights to the audience. The GOT script analysis can help the audience understand the impact of each main character such as Tyrion, classify the attitude of each family, and learn alot about any of the main characters in 10 mins or less.
 
-Most talkative Characters
+Most Talkative Characters
 ![](/images/Talkative.png)
 <br />
 <br />
