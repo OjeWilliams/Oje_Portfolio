@@ -25,15 +25,15 @@ Total Dashboard
 As part of the analysis I investigated the skewness of the data as well as the trustworthyness of Elite reviews.
 
 Top Business Categories 
-![](https://github.com/OjeWilliams/Oje_Portfolio/blob/main/images/Top-Categories-by-Business.png)
+![](/images/Top-Categories-by-Business.png)
 <br />
 
 Yelp Review Skewness
-![](https://github.com/OjeWilliams/Oje_Portfolio/blob/main/images/Yelp-Review-Skewness.png)
+![](/images/Yelp-Review-Skewness.png)
 <br />
 
 Review Comparison
-![](https://github.com/OjeWilliams/Oje_Portfolio/blob/main/images/Review-Comparison.png)
+![](/images/Review-Comparison.png)
 
 
 
