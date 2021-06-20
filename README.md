@@ -11,9 +11,10 @@ My name is Oje Williams and simply put, I like numbers. I have a bachelor's in A
 Connect with me on [LinkedIn](https://www.linkedin.com/in/ojewilliams/).
 
 Email me here: ojewilliams17@gmail.com 
+ <br /> 
+  <br />
 
-# Below are some of my projects with links to github
-
+# Projects:
 
 # [Analyzing-Millions-of-NYC-Parking-Violations](https://github.com/OjeWilliams/Analyzing-Millions-of-NYC-Parking-Violations)
 
