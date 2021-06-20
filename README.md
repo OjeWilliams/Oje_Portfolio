@@ -1,7 +1,7 @@
-## Hi, welcome to my portfolio. 
+# Hi, welcome to my portfolio. 
 My name is Oje Williams and simply put, I like numbers. I have a bachelor's in Applied Mathematics which developed my love for statistics and I recently obtained a master's in Statistics with a concentration in Data Science. I am an aspiring Data Scientist who would love to marry my skills, knowledge and desire to learn, with using data to provide business insights as well as data driven solutions.
 
-### Some of the skills and technoligies I have aquired along the way are:
+## Some of the skills and technoligies I have aquired along the way are:
 - **Programming:** Python, R, SQL, PostgreSQL
 - **Data Science Packages:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, NLTK, SpaCy, TensorFlow,  etc.
 - **Data Science/Mining Algorithms:** Regression( Linear, Multi-Var, Ridge, Lasso Elastic-Net), Classification( KNN, Random Forest, Hierarchical Clustering etc.), Linear Discriminant Analysis, Principal Component Analysis, Natural LAnguage Processing
@@ -11,6 +11,9 @@ My name is Oje Williams and simply put, I like numbers. I have a bachelor's in A
 Connect with me on [LinkedIn](https://www.linkedin.com/in/ojewilliams/).
 
 Email me here: ojewilliams17@gmail.com 
+
+# Below are some of my projects with links to github
+
 
 # [Analyzing-Millions-of-NYC-Parking-Violations](https://github.com/OjeWilliams/Analyzing-Millions-of-NYC-Parking-Violations)
 
