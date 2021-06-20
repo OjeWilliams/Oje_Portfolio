@@ -64,4 +64,22 @@ This project involves setting up a few AWS technologies to generate near real ti
  
 The aim is to leverage an AWS Lamda function as well as AWS Kinesis, S3, Glue and Athena to capture data over a specific time period and run a few queries as well as provide some analsyis and visualizations.
 
+Workflow
+![](/images/workflow.png)
+<br />
+<br />
 
+Boxplot of Company Stock Values
+![](/images/box.png)
+<br />
+<br />
+
+Price Movement Over a Day
+![](/images/flux.png)
+<br />
+<br />
+
+Comaprison Netflix and The Trade Desk
+![](/images/line1.png)
+<br />
+<br />
