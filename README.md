@@ -56,7 +56,7 @@ Review Comparison
 <br />
 
 # Regression-Model-Comparison
-A Comparison of Lasso, Ridge, Elastic Net and Randon Forest on Survey Data
+A Comparison of Lasso, Ridge, Elastic Net and Randon Forest while predicting Height of Slovakian Students
 
 ## Background
 This project was conducted as part of a Damining Class (STA-9890). It involves an investigation into survey data utilizing Lasso, Ridge, Elastic Net and Random Forest. Essentially this project seeks to ascertain which of the named models performs best on our data set when trying to predict height.
