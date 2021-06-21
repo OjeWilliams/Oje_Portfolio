@@ -55,6 +55,40 @@ Review Comparison
 <br />
 <br />
 
+# Regression-Model-Comparison
+A Comparison of Lasso, Ridge, Elastic Net and Randon Forest on Survey Data
+
+## Background
+This project was conducted as part of a Damining Class (STA-9890). It involves an investigation into survey data utilizing Lasso, Ridge, Elastic Net and Random Forest. Essentially this project seeks to ascertain which of the named models performs best on our data set when trying to predict height.
+
+**Lasso Regression**: Lasso stands for Least Absolute Shrinkage and Selection Operator is a regression technique that allows for an easy way in selecting important features from our dataset because it supresses the coefficient of many features to zero. It heavily penalizes the absolute size of coefficients and based on your tuning parameter; you can control how many of your coefficients you want to be pushed to zero. 
+
+**Ridge Regression**: Ridge penalizes the aquared size of coefficents and as such it leads to overal smaller coefficients as it pushes them closer to zero. Essentially, Ridge allows us to shrink the the coefficeints of features which sometimes allows us an easier time to see which features are most important.
+
+**Elastic-Net Regression**:  Elastic-Net is a combination between Lasso and Ridge. It blends penalizing based on absolute size and squared size of coefficients.
+
+**Random Forest**: Random forest is a decision tree classification technique. Essentially it posseses many individual trees that can easily produce their own class prediction, which is then used to determine the overall prediction of the model. 
+
+**Top Music predictors:** Classical, Musicals, Rock, Metal, Alternative. <br />
+**Top Movie predictors:** Comedy, Sci-Fi, Horror, Fantasy, War. <br />
+**Other Top Predictors:** Weight, Interest in Cars, Passive Sports, Shopping, Science and Technology <br />
+Ridge, Elastic-Net and Lasso performed similarly while Random forest had a longer runtime.
+
+R-Squared Boxplot
+![](/images/BoxR2.png)
+<br />
+
+Coefficient Boxplots
+![](/images/BoxCoeffs.png)
+<br />
+
+Summary
+![](/images/Summary.png)
+<br />
+<br />
+
+
+
 # [Game of Thrones Script Analysis](https://github.com/OjeWilliams/NLP_Analysis)
 Game of Thrones (GOT), is a fantasy drama television series that contains 73 episodes in 8 seasons. We analyzed a complete set of the script from all the characters for all seasons through Natural Language Processing techniques such as sentiment analysis, aspect mining, tokenization, and Named Entity Recognition (NER). We tackled topics such as the change in main characters' sentiment, frequent words used in each family, and the comparison of the word usage of the two main characters. This allowed us to provide better and deeper insights to the audience. The GOT script analysis can help the audience understand the impact of each main character such as Tyrion, classify the attitude of each family, and learn alot about any of the main characters in 10 mins or less.
 
