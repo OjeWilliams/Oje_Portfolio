@@ -70,7 +70,6 @@ This project was conducted as part of a Damining Class (STA-9890). It involves a
 **Top Music predictors:** Classical, Musicals, Rock, Metal, Alternative. <br />
 **Top Movie predictors:** Comedy, Sci-Fi, Horror, Fantasy, War. <br />
 **Other Top Predictors:** Weight, Interest in Cars, Passive Sports, Shopping, Science and Technology <br />
-Ridge, Elastic-Net and Lasso performed similarly while Random forest had a longer runtime.
 
 R-Squared Boxplot
 ![](/images/BoxR2.png)
