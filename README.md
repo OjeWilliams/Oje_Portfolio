@@ -34,6 +34,16 @@ Boxplot of Company Stock Values
 <br />
 <br />
 
+Price Movement Over a Day
+![](/images/flux.png)
+<br />
+<br />
+
+Comaprison Netflix and The Trade Desk
+![](/images/line1.png)
+<br />
+<br />
+
 
 # Regression-Model-Comparison
 
@@ -123,13 +133,3 @@ Tyrions Sentiment Over the Series
 <br />
 <br />
 
-
-Price Movement Over a Day
-![](/images/flux.png)
-<br />
-<br />
-
-Comaprison Netflix and The Trade Desk
-![](/images/line1.png)
-<br />
-<br />
