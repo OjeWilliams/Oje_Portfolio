@@ -49,7 +49,7 @@ Comaprison Netflix and The Trade Desk
 
 # Regression-Model-Comparison
 
-This project was conducted as part of a Damining Class (STA-9890). It involves an investigation into survey data utilizing Lasso, Ridge, Elastic Net and Random Forest. Essentially this project seeks to ascertain which of the named models performs best on our data set when trying to predict the height of Slovakian students.
+This project was conducted as part of a Data mining Class (STA-9890). It involves an investigation into survey data utilizing Lasso, Ridge, Elastic Net and Random Forest. Essentially this project seeks to ascertain which of the named models performs best on our data set when trying to predict the height of Slovakian students.
 
 **Lasso Regression**: Lasso stands for Least Absolute Shrinkage and Selection Operator is a regression technique that allows for an easy way in selecting important features from our dataset because it supresses the coefficient of many features to zero. It heavily penalizes the absolute size of coefficients and based on your tuning parameter; you can control how many of your coefficients you want to be pushed to zero. 
 
