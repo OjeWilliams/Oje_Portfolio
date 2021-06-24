@@ -96,7 +96,9 @@ Tyrions Sentiment Over the Series
 
 
 # [Multivariate Regression of Louisianna and Mississippi Parishes  ](https://github.com/OjeWilliams/Multivariate-Analysis-of-Louisiana-and-Mississippi-Parishes)
-
+ **Multivariate Regression**
+ lkjnbksdfvbnklnv
+  
 
 Correlation
 ![](/images/correlation.png)
