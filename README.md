@@ -97,7 +97,7 @@ Tyrions Sentiment Over the Series
 
 # [Multivariate Analysis of Louisianna and Mississippi Parishes  ](https://github.com/OjeWilliams/Multivariate-Analysis-of-Louisiana-and-Mississippi-Parishes)
  **Multivariate Regression** <br />
- The purpose of this multivariate analysis was to study the relationship among varying features related to the States Mississippi and Louisiana. The focus was on Median Household Income (MHI) and Life Expectancy(LE). After checks for linearity by calculating and plotting the correlation, MHI and LE had a correlation hich was not only positive but also relative strong (r = 0.71). The test for overal regression indicated based on Wilk's, Pillai, Lawley-Hotelling and Roy's test indicated that there was the presence of strong linear associations between the responses and the predictors. After the test significance 
+ The purpose of this multivariate analysis was to study the relationship among varying features related to the States Mississippi and Louisiana. The focus was on Median Household Income (MHI) and Life Expectancy(LE). After checks for linearity by calculating and plotting the correlation, MHI and LE had a correlation hich was not only positive but also relative strong (r = 0.71). The test for overal regression indicated based on Wilk's, Pillai, Lawley-Hotelling and Roy's test indicated that there was the presence of strong linear associations between the responses and the predictors. After the test significance all of the predictors were significant except the predictor 'Excessive Drinking Rate'(x7) and the two most important predictors when adjusted for the other predictors were 'Population Under 18' (x1) and 'African American' (x2).
   
 
 Correlation
