@@ -95,6 +95,25 @@ Tyrions Sentiment Over the Series
 <br />
 
 
+# [Multivariate Regression of Louisianna and Mississippi Parishes  ](https://github.com/OjeWilliams/Multivariate-Analysis-of-Louisiana-and-Mississippi-Parishes)
+
+
+Correlation
+![](/images/correlation.png)
+<br />
+<br />
+
+Test of Overall Regression
+![](/images/overall-regression.png)
+<br />
+<br />
+
+Tests of Significance
+![](/images/total-sig.png)
+<br />
+<br />
+
+
 # [Analyzing-Millions-of-NYC-Parking-Violations](https://github.com/OjeWilliams/Analyzing-Millions-of-NYC-Parking-Violations)
 
 This project involves interacting and analyzing NYC parking violations over the last decade through the Socrata Open Data API. To achieve this I utilized a EC2 instance from Amazon Web Services, the Linux terminal, Docker, Elasticsearch and finally Kibana.
