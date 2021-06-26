@@ -47,7 +47,7 @@ Comaprison Netflix and The Trade Desk
 <br />
 
 
-# Regression-Model-Comparison
+# [Regression-Model-Comparison](https://github.com/OjeWilliams/Regression-Model-Comparison)
 
 This project was conducted as part of a Data mining Class (STA-9890). It involves an investigation into survey data utilizing Lasso, Ridge, Elastic Net and Random Forest. Essentially this project seeks to ascertain which of the named models performs best on our data set when trying to predict the height of Slovakian students.
 
