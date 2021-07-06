@@ -7,7 +7,7 @@ My name is Oje Williams and simply put, I am passionate about data and how we ca
 - **Data Science Packages:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, NLTK, SpaCy, TensorFlow,  etc.
 - **Data Science/Mining Algorithms:** Regression( Linear, Multi-Var, Ridge, Lasso Elastic-Net), Classification( KNN, Random Forest, Hierarchical Clustering etc.), Linear Discriminant Analysis, Principal Component Analysis, Natural Language Processing
 - **Big Data Technologies:** AWS (EC2, Elastic Search, Kibana, Kinesis, Athena, S3), Docker, Hadoop, Spark
-- **Data Visualization Tools:** [Tableau](https://public.tableau.com/profile/oje.williams#!/)
+- **Data Visualization Tools:** [Tableau](https://public.tableau.com/profile/oje.williams#!/) 
 
 
 
