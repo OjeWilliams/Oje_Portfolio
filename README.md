@@ -19,6 +19,32 @@ Email me here: ojewilliams17@gmail.com
 
 # Projects:
 
+# [Customer Segmentation Of Mall Data](https://github.com/OjeWilliams/Customer-Segmentation)
+Customer Segmentation is the practice of dividing the customers of a company into different groups that possess similarities in each group. The objective of segmenting the customers is to ascertain how to relate to customers in each segment so that we can maximize the value of each customer to the business.
+Ideally this allows us to tailor our appraoch to each customer group based on their interests, demographic profile or even preferered method of communication and interaction.
+This project investigates Mall data obtained from [Kaggle](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python) and it was used to create six customer groups based on K-Means,  Hierarchical Clustering and Principal Component Analysis. 
+
+K-Means Clustering
+![](/images/KM6-Cluster.png)
+<br />
+<br />
+
+Hierarchical Clustering
+![](/images/TotalDendrogram.png)
+<br />
+<br />
+
+Principal Component Analysis 
+![](/images/PCA-Summary.png)
+<br />
+<br />
+
+Cluster Summary
+![](/images/ClusterSummary.png)
+<br />
+<br />
+
+
 # [Streaming Yahoo Finance Data with AWS Lambda](https://github.com/OjeWilliams/Streaming-Yahoo-Finance-Data-with-AWS-Lambda)
 This project involves setting up a few AWS technologies to generate near real time finance data records for interactive querying. This will allow us to capture and analyze data that is being constantly generated in or near to real time. We will utilize the [yfinance](https://github.com/ranaroussi/yfinance) module that provides a suitable and effective way to download and view historical market data from [Yahoo! finance](https://finance.yahoo.com/).
   We will be taking a look at the following stocks: 
