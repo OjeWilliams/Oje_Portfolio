@@ -25,25 +25,21 @@ Ideally this allows us to tailor our appraoch to each customer group based on th
 This project investigates Mall data obtained from [Kaggle](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python) and it was used to create six customer groups based on K-Means,  Hierarchical Clustering and Principal Component Analysis. 
 
 K-Means Clustering
-
 ![](/images/KM6-Cluster.png)
 <br />
 <br />
 
 Hierarchical Clustering
-
 ![](/images/TotalDendrogram.png)
 <br />
 <br />
 
 Principal Component Analysis 
-
 ![](/images/PCA-Summary.png)
 <br />
 <br />
 
 Cluster Summary
-
 ![](/images/ClusterSummary.png)
 <br />
 <br />
