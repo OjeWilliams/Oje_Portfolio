@@ -69,7 +69,7 @@ Price Movement Over a Day
 <br />
 <br />
 
-Comaprison Netflix and The Trade Desk
+Comaprison of Netflix and The Trade Desk
 ![](/images/line1.png)
 <br />
 <br />
