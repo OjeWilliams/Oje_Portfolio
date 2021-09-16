@@ -117,7 +117,7 @@ Sentiment Spread
 <br />
 <br />
 
-Tyrions Sentiment Over the Series
+Tyrions Sentiment Over the Seasons
 ![](/images/Tyrion.png)
 <br />
 <br />
