@@ -14,6 +14,7 @@ My name is Oje Williams and simply put, I am passionate about data and how we ca
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/ojewilliams/).
  <br />
+ 
 View My Github Profile [here](https://github.com/OjeWilliams).
 
 Email me here: ojewilliams17@gmail.com 
