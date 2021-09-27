@@ -16,7 +16,8 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/ojewilliams/).
  <br />
  
 View my Github Profile [here](https://github.com/OjeWilliams).
-
+ <br />
+ 
 Email me here: ojewilliams17@gmail.com 
  <br /> 
   <br />
