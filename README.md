@@ -2,7 +2,7 @@
 My name is Oje Williams and simply put, I am passionate about data and how we can learn from it. I have a bachelor's in Applied Mathematics which developed my love for statistics and I recently obtained a master's in Statistics with a concentration in Data Science. I am an aspiring Data Scientist who would love to marry my skills, knowledge and desire to learn, with using data to provide business insights as well as data driven solutions.
 
 
-### Skills and technoligies I have aquired along the way are:
+### Skills and technologies I have aquired along the way are:
 - **Programming:** Python, R, SQL, PostgreSQL
 - **Data Science Packages:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, NLTK, SpaCy, TensorFlow,  etc.
 - **Data Science/Mining Algorithms:** Regression( Linear, Multi-Var, Ridge, Lasso Elastic-Net), Classification( KNN, Random Forest, Hierarchical Clustering etc.), Linear Discriminant Analysis, Principal Component Analysis, Natural Language Processing
